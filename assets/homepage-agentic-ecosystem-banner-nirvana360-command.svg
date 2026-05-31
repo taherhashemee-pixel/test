@@ -1,0 +1,116 @@
+<svg width="1600" height="650" viewBox="0 0 1600 650" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Nirvana 360 AI command ecosystem banner</title>
+  <desc id="desc">A dark navy and gold homepage banner for Nirvana 360, visualizing an AI agentic ecosystem as a command center with connected agents and workflow intelligence.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1600" y2="650" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050B18"/>
+      <stop offset="0.46" stop-color="#0A1A33"/>
+      <stop offset="1" stop-color="#142849"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(461 294) rotate(38) scale(520 372)">
+      <stop stop-color="#D6A84A" stop-opacity="0.2"/>
+      <stop offset="0.56" stop-color="#D6A84A" stop-opacity="0.04"/>
+      <stop offset="1" stop-color="#D6A84A" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="181" y1="89" x2="1295" y2="589" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF0B8"/>
+      <stop offset="0.5" stop-color="#D6A84A"/>
+      <stop offset="1" stop-color="#8E681E"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="132" y1="115" x2="1051" y2="574" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#132D55" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#061225" stop-opacity="0.78"/>
+    </linearGradient>
+    <filter id="shadow" x="-18%" y="-18%" width="136%" height="150%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="26" stdDeviation="32" flood-color="#000814" flood-opacity="0.48"/>
+    </filter>
+    <filter id="glow" x="-70%" y="-70%" width="240%" height="240%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="dots" width="42" height="42" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.25" fill="#D6A84A" opacity="0.22"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="650" rx="34" fill="url(#background)"/>
+  <rect width="1600" height="650" rx="34" fill="url(#halo)"/>
+  <rect width="1600" height="650" rx="34" fill="url(#dots)" opacity="0.55"/>
+  <path d="M79 89H389M79 561H303M1232 93H1509M1293 561H1515" stroke="#D6A84A" stroke-opacity="0.22" stroke-width="2" stroke-linecap="round"/>
+  <path d="M-57 425C177 347 325 436 512 358C727 269 810 121 1047 153C1240 179 1343 317 1659 245" stroke="#D6A84A" stroke-opacity="0.15" stroke-width="2"/>
+
+  <g transform="translate(100 93)" filter="url(#shadow)">
+    <rect x="0" y="0" width="820" height="464" rx="36" fill="url(#panel)" stroke="#D6A84A" stroke-opacity="0.2"/>
+    <rect x="34" y="34" width="752" height="72" rx="24" fill="#071326" fill-opacity="0.62" stroke="#D6A84A" stroke-opacity="0.16"/>
+    <circle cx="75" cy="70" r="9" fill="#D6A84A"/>
+    <circle cx="105" cy="70" r="9" fill="#D6A84A" fill-opacity="0.55"/>
+    <circle cx="135" cy="70" r="9" fill="#D6A84A" fill-opacity="0.28"/>
+    <text x="178" y="79" fill="#FFF0C2" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="900" letter-spacing="3">nirvana 360 command layer</text>
+
+    <g transform="translate(52 142)">
+      <rect width="306" height="264" rx="30" fill="#061225" fill-opacity="0.56" stroke="#D6A84A" stroke-opacity="0.18"/>
+      <text x="34" y="56" fill="#D6A84A" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" letter-spacing="3">ECOSYSTEM MAP</text>
+      <circle cx="153" cy="148" r="62" fill="#D6A84A" fill-opacity="0.1" stroke="url(#gold)" stroke-width="3"/>
+      <circle cx="153" cy="148" r="34" fill="#071326" stroke="#D6A84A" stroke-opacity="0.7"/>
+      <text x="153" y="154" text-anchor="middle" fill="#FFF3D1" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="900">AI</text>
+      <g stroke="#D6A84A" stroke-opacity="0.42" stroke-width="2">
+        <path d="M153 86V54"/>
+        <path d="M153 210V242"/>
+        <path d="M91 148H59"/>
+        <path d="M215 148H247"/>
+        <path d="M108 103L82 77"/>
+        <path d="M198 193L224 219"/>
+        <path d="M198 103L224 77"/>
+        <path d="M108 193L82 219"/>
+      </g>
+      <g fill="#D6A84A" filter="url(#glow)">
+        <circle cx="153" cy="54" r="7"/>
+        <circle cx="153" cy="242" r="7"/>
+        <circle cx="59" cy="148" r="7"/>
+        <circle cx="247" cy="148" r="7"/>
+        <circle cx="82" cy="77" r="6"/>
+        <circle cx="224" cy="219" r="6"/>
+        <circle cx="224" cy="77" r="6"/>
+        <circle cx="82" cy="219" r="6"/>
+      </g>
+    </g>
+
+    <g transform="translate(394 142)" font-family="Inter, Arial, sans-serif">
+      <rect width="374" height="74" rx="22" fill="#061225" fill-opacity="0.58" stroke="#D6A84A" stroke-opacity="0.2"/>
+      <text x="30" y="32" fill="#FFF3D1" font-size="18" font-weight="900">Agent orchestration</text>
+      <text x="30" y="55" fill="#98AACA" font-size="13" font-weight="700">Planner, executor, verifier, and tool agents</text>
+      <path d="M300 37H340" stroke="#D6A84A" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="348" cy="37" r="6" fill="#D6A84A"/>
+
+      <rect y="94" width="374" height="74" rx="22" fill="#061225" fill-opacity="0.58" stroke="#D6A84A" stroke-opacity="0.2"/>
+      <text x="30" y="126" fill="#FFF3D1" font-size="18" font-weight="900">Shared intelligence</text>
+      <text x="30" y="149" fill="#98AACA" font-size="13" font-weight="700">Memory, knowledge streams, and decisions</text>
+      <path d="M300 131H340" stroke="#D6A84A" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="348" cy="131" r="6" fill="#D6A84A"/>
+
+      <rect y="188" width="374" height="74" rx="22" fill="#061225" fill-opacity="0.58" stroke="#D6A84A" stroke-opacity="0.2"/>
+      <text x="30" y="220" fill="#FFF3D1" font-size="18" font-weight="900">Trusted execution</text>
+      <text x="30" y="243" fill="#98AACA" font-size="13" font-weight="700">Guardrails, audit trails, and workflow control</text>
+      <path d="M300 225H340" stroke="#D6A84A" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="348" cy="225" r="6" fill="#D6A84A"/>
+    </g>
+  </g>
+
+  <g transform="translate(985 128)">
+    <text x="0" y="44" fill="#D6A84A" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="900" letter-spacing="5">NIRVANA 360</text>
+    <text x="0" y="130" fill="#FFF6DD" font-family="Inter, Arial, sans-serif" font-size="70" font-weight="900" letter-spacing="-2.5">Build with</text>
+    <text x="0" y="201" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="70" font-weight="900" letter-spacing="-2.5">agent teams</text>
+    <text x="2" y="255" fill="#B9C7DC" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="500">A 360-degree AI ecosystem where</text>
+    <text x="2" y="291" fill="#B9C7DC" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="500">specialized agents coordinate strategy,</text>
+    <text x="2" y="327" fill="#B9C7DC" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="500">data, tools, safety, and execution.</text>
+    <g transform="translate(2 374)">
+      <rect width="184" height="48" rx="24" fill="#D6A84A"/>
+      <text x="30" y="31" fill="#071326" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="900">Start building</text>
+      <rect x="210" width="168" height="48" rx="24" fill="#FFFFFF" fill-opacity="0.06" stroke="#D6A84A" stroke-opacity="0.5"/>
+      <text x="238" y="31" fill="#FFEAB0" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="800">View platform</text>
+    </g>
+  </g>
+</svg>
