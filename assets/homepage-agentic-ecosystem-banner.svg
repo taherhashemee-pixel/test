@@ -1,0 +1,166 @@
+<svg width="1600" height="650" viewBox="0 0 1600 650" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AI Agentic Ecosystem homepage banner</title>
+  <desc id="desc">A dark navy and gold homepage banner showing an interconnected ecosystem of AI agents, tools, data, memory, safety, and applications orbiting a central AI core.</desc>
+  <defs>
+    <radialGradient id="bgGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1090 290) rotate(133) scale(595 512)">
+      <stop stop-color="#1C3157"/>
+      <stop offset="0.42" stop-color="#0B1A32"/>
+      <stop offset="1" stop-color="#06101F"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="278" y1="105" x2="1318" y2="569" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE39B"/>
+      <stop offset="0.48" stop-color="#D6A84A"/>
+      <stop offset="1" stop-color="#8E681E"/>
+    </linearGradient>
+    <linearGradient id="goldSoft" x1="685" y1="136" x2="1191" y2="534" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF1B8"/>
+      <stop offset="1" stop-color="#B98A31"/>
+    </linearGradient>
+    <linearGradient id="cardFill" x1="764" y1="124" x2="1346" y2="541" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#122B52" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#071427" stop-opacity="0.72"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-30%" width="140%" height="160%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="28" stdDeviation="32" flood-color="#000814" flood-opacity="0.45"/>
+    </filter>
+    <filter id="goldGlow" x="-120%" y="-120%" width="340%" height="340%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="dotGrid" width="46" height="46" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.35" fill="#D6A84A" opacity="0.2"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="650" rx="34" fill="url(#bgGlow)"/>
+  <rect width="1600" height="650" rx="34" fill="url(#dotGrid)" opacity="0.55"/>
+
+  <path d="M-68 529C188 427 319 586 563 497C777 419 720 204 954 129C1162 62 1318 209 1679 84" stroke="#D6A84A" stroke-opacity="0.16" stroke-width="2"/>
+  <path d="M-59 145C185 268 356 76 568 166C766 249 789 465 1019 468C1197 471 1286 347 1661 458" stroke="#6F86AE" stroke-opacity="0.22" stroke-width="2"/>
+  <path d="M121 590C369 483 492 515 687 584C909 662 1057 570 1218 479C1354 401 1467 398 1588 439" stroke="#D6A84A" stroke-opacity="0.11" stroke-width="2"/>
+
+  <g opacity="0.62">
+    <circle cx="1206" cy="96" r="170" fill="#D6A84A" opacity="0.05"/>
+    <circle cx="1206" cy="96" r="104" fill="#D6A84A" opacity="0.06"/>
+    <circle cx="116" cy="548" r="158" fill="#31507E" opacity="0.18"/>
+  </g>
+
+  <g transform="translate(118 137)">
+    <rect x="0" y="0" width="612" height="384" rx="34" fill="#071326" fill-opacity="0.52" stroke="#D6A84A" stroke-opacity="0.16"/>
+    <path d="M48 73H196" stroke="url(#gold)" stroke-width="3" stroke-linecap="round"/>
+    <text x="48" y="132" fill="#FFF4D2" font-family="Inter, Arial, sans-serif" font-size="70" font-weight="800" letter-spacing="-2.6">
+      AI Agentic
+    </text>
+    <text x="48" y="205" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="70" font-weight="800" letter-spacing="-2.6">
+      Ecosystem
+    </text>
+    <text x="50" y="257" fill="#BFCBE0" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="0.2">
+      Autonomous agents, shared memory,
+    </text>
+    <text x="50" y="293" fill="#BFCBE0" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="0.2">
+      trusted tools, and orchestrated intelligence.
+    </text>
+    <g transform="translate(50 328)">
+      <rect width="174" height="44" rx="22" fill="#D6A84A"/>
+      <text x="26" y="29" fill="#071326" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800" letter-spacing="0.4">
+        Explore agents
+      </text>
+      <rect x="196" width="150" height="44" rx="22" fill="#FFFFFF" fill-opacity="0.06" stroke="#D6A84A" stroke-opacity="0.42"/>
+      <text x="222" y="29" fill="#FFE9A9" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="0.3">
+        See ecosystem
+      </text>
+    </g>
+  </g>
+
+  <g transform="translate(720 63)" filter="url(#softShadow)">
+    <ellipse cx="438" cy="263" rx="315" ry="211" stroke="#D6A84A" stroke-opacity="0.22" stroke-width="2"/>
+    <ellipse cx="438" cy="263" rx="242" ry="164" stroke="#D6A84A" stroke-opacity="0.18" stroke-width="2" stroke-dasharray="10 16"/>
+    <ellipse cx="438" cy="263" rx="170" ry="112" stroke="#6E87B0" stroke-opacity="0.2" stroke-width="2"/>
+
+    <path d="M437 263L214 171" stroke="#D6A84A" stroke-opacity="0.36" stroke-width="2"/>
+    <path d="M437 263L250 354" stroke="#D6A84A" stroke-opacity="0.36" stroke-width="2"/>
+    <path d="M437 263L427 86" stroke="#D6A84A" stroke-opacity="0.36" stroke-width="2"/>
+    <path d="M437 263L646 126" stroke="#D6A84A" stroke-opacity="0.36" stroke-width="2"/>
+    <path d="M437 263L690 332" stroke="#D6A84A" stroke-opacity="0.36" stroke-width="2"/>
+    <path d="M437 263L499 463" stroke="#D6A84A" stroke-opacity="0.36" stroke-width="2"/>
+
+    <g filter="url(#goldGlow)">
+      <circle cx="438" cy="263" r="88" fill="#071326" stroke="url(#goldSoft)" stroke-width="3"/>
+      <circle cx="438" cy="263" r="63" fill="#D6A84A" fill-opacity="0.12" stroke="#D6A84A" stroke-opacity="0.56"/>
+      <path d="M404 262C404 243 419 228 438 228C457 228 472 243 472 262C472 281 457 296 438 296C419 296 404 281 404 262Z" fill="#D6A84A" fill-opacity="0.18" stroke="#FFE5A0" stroke-width="2"/>
+      <path d="M438 215V231M438 295V312M391 263H407M469 263H486M406 231L418 243M458 283L470 295M470 231L458 243M418 283L406 295" stroke="#FFE9B4" stroke-width="3" stroke-linecap="round"/>
+      <text x="438" y="270" text-anchor="middle" fill="#FFF4D2" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="900" letter-spacing="1.5">AI</text>
+    </g>
+
+    <g transform="translate(116 122)">
+      <rect x="0" y="0" width="200" height="92" rx="24" fill="url(#cardFill)" stroke="#D6A84A" stroke-opacity="0.42"/>
+      <circle cx="44" cy="46" r="19" fill="#D6A84A" fill-opacity="0.18" stroke="#D6A84A"/>
+      <path d="M34 47L42 55L56 36" stroke="#FFE9B4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="78" y="43" fill="#FFF2CD" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800">Planner</text>
+      <text x="78" y="67" fill="#9FB0CE" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600">Goal decomposition</text>
+    </g>
+
+    <g transform="translate(544 78)">
+      <rect x="0" y="0" width="213" height="92" rx="24" fill="url(#cardFill)" stroke="#D6A84A" stroke-opacity="0.42"/>
+      <circle cx="45" cy="46" r="19" fill="#D6A84A" fill-opacity="0.18" stroke="#D6A84A"/>
+      <path d="M36 47H54M45 38V56" stroke="#FFE9B4" stroke-width="4" stroke-linecap="round"/>
+      <text x="80" y="43" fill="#FFF2CD" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800">Tools</text>
+      <text x="80" y="67" fill="#9FB0CE" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600">APIs and actions</text>
+    </g>
+
+    <g transform="translate(323 26)">
+      <rect x="0" y="0" width="202" height="86" rx="24" fill="url(#cardFill)" stroke="#D6A84A" stroke-opacity="0.38"/>
+      <circle cx="43" cy="43" r="18" fill="#D6A84A" fill-opacity="0.18" stroke="#D6A84A"/>
+      <path d="M34 43C40 33 47 33 53 43C47 53 40 53 34 43Z" stroke="#FFE9B4" stroke-width="3" stroke-linejoin="round"/>
+      <text x="76" y="40" fill="#FFF2CD" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800">Memory</text>
+      <text x="76" y="63" fill="#9FB0CE" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600">Context layer</text>
+    </g>
+
+    <g transform="translate(147 330)">
+      <rect x="0" y="0" width="210" height="92" rx="24" fill="url(#cardFill)" stroke="#D6A84A" stroke-opacity="0.42"/>
+      <circle cx="46" cy="46" r="19" fill="#D6A84A" fill-opacity="0.18" stroke="#D6A84A"/>
+      <path d="M36 38H56V52C56 59 49 63 46 64C43 63 36 59 36 52V38Z" stroke="#FFE9B4" stroke-width="3" stroke-linejoin="round"/>
+      <text x="82" y="43" fill="#FFF2CD" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800">Safety</text>
+      <text x="82" y="67" fill="#9FB0CE" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600">Guardrails</text>
+    </g>
+
+    <g transform="translate(583 287)">
+      <rect x="0" y="0" width="220" height="92" rx="24" fill="url(#cardFill)" stroke="#D6A84A" stroke-opacity="0.42"/>
+      <circle cx="46" cy="46" r="19" fill="#D6A84A" fill-opacity="0.18" stroke="#D6A84A"/>
+      <path d="M36 39H56M36 47H56M36 55H50" stroke="#FFE9B4" stroke-width="3.5" stroke-linecap="round"/>
+      <text x="82" y="43" fill="#FFF2CD" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800">Data</text>
+      <text x="82" y="67" fill="#9FB0CE" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600">Knowledge streams</text>
+    </g>
+
+    <g transform="translate(398 426)">
+      <rect x="0" y="0" width="215" height="92" rx="24" fill="url(#cardFill)" stroke="#D6A84A" stroke-opacity="0.42"/>
+      <circle cx="46" cy="46" r="19" fill="#D6A84A" fill-opacity="0.18" stroke="#D6A84A"/>
+      <path d="M37 42L46 34L55 42V57H37V42Z" stroke="#FFE9B4" stroke-width="3" stroke-linejoin="round"/>
+      <text x="82" y="43" fill="#FFF2CD" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800">Apps</text>
+      <text x="82" y="67" fill="#9FB0CE" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600">User workflows</text>
+    </g>
+
+    <g fill="#D6A84A" filter="url(#goldGlow)">
+      <circle cx="214" cy="171" r="7"/>
+      <circle cx="250" cy="354" r="7"/>
+      <circle cx="427" cy="86" r="7"/>
+      <circle cx="646" cy="126" r="7"/>
+      <circle cx="690" cy="332" r="7"/>
+      <circle cx="499" cy="463" r="7"/>
+      <circle cx="724" cy="226" r="4" opacity="0.8"/>
+      <circle cx="334" cy="488" r="4" opacity="0.7"/>
+      <circle cx="194" cy="271" r="4" opacity="0.7"/>
+      <circle cx="554" cy="210" r="4" opacity="0.8"/>
+    </g>
+  </g>
+
+  <g opacity="0.78">
+    <path d="M1409 538H1522" stroke="#D6A84A" stroke-opacity="0.42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M1442 565H1522" stroke="#D6A84A" stroke-opacity="0.24" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="1384" cy="538" r="5" fill="#D6A84A"/>
+    <circle cx="1421" cy="565" r="4" fill="#D6A84A" opacity="0.7"/>
+  </g>
+</svg>
